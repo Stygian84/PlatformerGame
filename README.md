@@ -13,7 +13,7 @@
 
 System requirements: Windows  
 
-[Game Executable File](https://drive.google.com/drive/folders/1pxelye04Qv_i3bN2vMnH7lxAiBo1FJAL?usp=sharing)
+[Game Executable File](https://drive.google.com/file/d/1sE9vbw3iC8_JjgDbO3kNxA_6-UKXQm8f/view?usp=sharing)
 
 ### How to Play
 
