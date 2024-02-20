@@ -1,6 +1,4 @@
-# README.md
-
-**Froggy The Warrior**
+# **Froggy The Warrior**
 
 ## Basic Game Description
 
