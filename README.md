@@ -1,4 +1,5 @@
 # **Froggy The Warrior**
+This game is created under 40 hours.  
 
 ## Basic Game Description
 
